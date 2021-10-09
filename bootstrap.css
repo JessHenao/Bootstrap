@@ -1,0 +1,33 @@
+:root{
+    --primary: rgb(235, 102, 26);
+}
+
+body{
+    font-family: 'Stick No Bills', sans-serif;
+}
+
+.btn-primary{
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.btn-primary:hover{
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.text-primary{
+    color: var(--primary) !important;
+}
+
+.bg-primary{
+    background-color:var(--primary) !important
+}
+
+.content{
+    max-width: 600px;
+}
+
+/* #hero{
+    height: 900px;
+} */
