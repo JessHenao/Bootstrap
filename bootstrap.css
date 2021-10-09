@@ -1,5 +1,5 @@
 :root{
-    --primary: rgb(235, 102, 26);
+    --primary: rgba(184, 196, 221, 0.733);
 }
 
 body{
@@ -25,7 +25,7 @@ body{
 }
 
 .content{
-    max-width: 600px;
+    max-width: 500px;
 }
 
 /* #hero{
